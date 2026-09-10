@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, this is Tim , Zhao Wentian
 
-<!--
-**haiqinyan0103-alt/haiqinyan0103-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+first year undergraduate Guangdong University of Technology (GDUT) . Learning C and heading toward embedded software.
 
-Here are some ideas to get you started:
+Currently: C fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repo   :https://github.com/haiqinyan0103-alt/c-learning-log     my weekly notes and code
+
+
+
+Contact : r5fyfv@163.com 
+
+​          Haiqinyan0103@gmail.com
+
+#### 
