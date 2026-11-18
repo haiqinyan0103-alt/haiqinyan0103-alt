@@ -1,6 +1,6 @@
 ## Hi, this is Tim , Zhao Wentian
 
-first year undergraduate Guangdong University of Technology (GDUT) . Learning C and heading toward embedded system and digital ic.
+first year undergraduate Guangdong University of Technology (GDUT) . Heading toward embedded system and digital ic.
 
 Currently: STM32
 
